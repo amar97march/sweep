@@ -21,7 +21,8 @@
   <a href="#features">Features</a> ·
   <a href="#safe-by-design">Safe by design</a> ·
   <a href="#build-from-source">Build from source</a> ·
-  <a href="CONTRIBUTING.md">Contribute</a>
+  <a href="CONTRIBUTING.md">Contribute</a> ·
+  <a href="#support-sweep">Support</a>
 </p>
 
 ---
@@ -177,6 +178,15 @@ the screenshot harness and how the scanner stays fast and correct: [docs/DEVELOP
 
 Bug reports, ideas and pull requests are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first:
 it explains the few rules that keep Sweep safe to run on people's Macs.
+
+## Support Sweep
+
+Sweep is free, and I build it in my spare time. If it helped you:
+
+- **Star this repo** so more people can find it.
+- **Share it** with a friend whose Mac keeps running out of space.
+- **[Buy me a coffee](https://buymeacoffee.com/amar97march).** It goes towards an Apple Developer account, so
+  Sweep can be notarized and open without the "Open Anyway" step.
 
 ## Licence
 
